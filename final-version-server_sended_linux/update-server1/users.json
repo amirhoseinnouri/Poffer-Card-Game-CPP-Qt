@@ -1,0 +1,32 @@
+[
+    {
+        "email": "admin@gmail.com",
+        "firstName": "admintest",
+        "gameHistory": [
+        ],
+        "lastName": "admintest",
+        "passwordHash": "98d7609c9d476fc84e43d81be6d85db31fe52c74cf4e753ebedc0e4bd088d39c",
+        "phoneNumber": "09180670000",
+        "username": "admintest"
+    },
+    {
+        "email": "admin@gmail.com",
+        "firstName": "mainadmin",
+        "gameHistory": [
+        ],
+        "lastName": "admin",
+        "passwordHash": "98d7609c9d476fc84e43d81be6d85db31fe52c74cf4e753ebedc0e4bd088d39c",
+        "phoneNumber": "09180000000",
+        "username": "mainadmin"
+    },
+    {
+        "email": "zahratest@gmail.com",
+        "firstName": "zahra",
+        "gameHistory": [
+        ],
+        "lastName": "mobini",
+        "passwordHash": "36b273893d2dc3f6a3438c6e09a9174b1186da9d734bf0b9388714cc7fe00707",
+        "phoneNumber": "09180000000",
+        "username": "zahramobini"
+    }
+]
